@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">713983104111-8sq03iue2rl7a4p3lok5j7in6rgnn4bh.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://sinavim-418e6.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">713983104111</string>
+    <string name="google_api_key" translatable="false">AIzaSyA8rmqk5-KaydHrm0cwGvRaigtazMgnUc8</string>
+    <string name="google_app_id" translatable="false">1:713983104111:android:6da11c8f0c0fe59702699a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA8rmqk5-KaydHrm0cwGvRaigtazMgnUc8</string>
+    <string name="google_storage_bucket" translatable="false">sinavim-418e6.appspot.com</string>
+    <string name="project_id" translatable="false">sinavim-418e6</string>
+</resources>
